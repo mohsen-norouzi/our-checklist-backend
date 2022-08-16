@@ -23,7 +23,8 @@
       "default": "label"
     },
     "color": {
-      "type": "string"
+      "type": "string",
+      "default": "#2e2e2e"
     },
     "team": {
       "type": "relation",
